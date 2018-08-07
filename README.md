@@ -1,4 +1,4 @@
-# extract_promoters.sh
+# extract_promoters
 Rim Gubaev, 2018
 
 extract_promoters.sh is intended to extract promoter regions with required lenght. The script works well with NCBI data (i.e. fasta   and gff files). It perfectly fits for organisms with poorly annotated genomes which are basically presented by large sets of contigs. 
